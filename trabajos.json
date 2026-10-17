@@ -29,12 +29,9 @@
       }
     ],
     "course": "Taller de Análisis e Integración de Periodismo",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/retrato.webp",
-    "alt": "Luciano Salazar presentando en el cerro Santa Lucía"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/santa-lucia.mp4",
+    "image": "assets/santa-lucia.webp",
+    "alt": "Intervención de Luciano Salazar ante las catacumbas del cerro Santa Lucía; identidad confirmada por el titular."
   },
   {
     "id": "reel-desigualdad",
@@ -58,12 +55,9 @@
       }
     ],
     "course": "Taller de Análisis e Integración de Periodismo",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-reel-desigualdad.svg",
-    "alt": "Ficha editorial de Providencia y Recoleta · reel de Integración"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/reel-desigualdad.mp4",
+    "image": "assets/reel-desigualdad.webp",
+    "alt": "Presentación en exteriores del reel Providencia–Recoleta, confirmada por Luciano Salazar."
   },
   {
     "id": "coaniquem",
@@ -78,12 +72,9 @@
     "synopsis": "Una nota en terreno sobre Coaniquem Store y su vínculo con la atención de niños con quemaduras.",
     "duration": 181.269,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-coaniquem.svg",
-    "alt": "Ficha editorial de Coaniquem Store"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/coaniquem.mp4",
+    "image": "assets/coaniquem.webp",
+    "alt": "Fotograma original de Coaniquem Store"
   },
   {
     "id": "diplomatica",
@@ -98,12 +89,9 @@
     "synopsis": "Recorrido por una muestra diplomática en La Moneda, con declaraciones y presentación desde el lugar.",
     "duration": 190.869,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-diplomatica.svg",
-    "alt": "Ficha editorial de Muestra diplomática en La Moneda"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/diplomatica.mp4",
+    "image": "assets/diplomatica.webp",
+    "alt": "Fotograma original de Muestra diplomática en La Moneda"
   },
   {
     "id": "tejidos",
@@ -118,12 +106,9 @@
     "synopsis": "Cobertura de una actividad de tejido en un recinto deportivo, con imágenes del encuentro y presentación en terreno.",
     "duration": 184.234,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-tejidos.svg",
-    "alt": "Ficha editorial de Red de tejidos"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/tejidos.mp4",
+    "image": "assets/tejidos.webp",
+    "alt": "Fotograma original de Red de tejidos"
   },
   {
     "id": "educacion",
@@ -138,12 +123,9 @@
     "synopsis": "Cobertura de una actividad de educación parvularia, con intervenciones y presentación desde el lugar.",
     "duration": 179.392,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-educacion.svg",
-    "alt": "Ficha editorial de Educación parvularia"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/educacion.mp4",
+    "image": "assets/educacion.webp",
+    "alt": "Fotograma original de Educación parvularia"
   },
   {
     "id": "museos",
@@ -158,12 +140,9 @@
     "synopsis": "Nota sobre museos y difusión cultural, con testimonios ciudadanos, una entrevista y recorridos por espacios museísticos.",
     "duration": 305.376,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-museos.svg",
-    "alt": "Ficha editorial de Museos y difusión cultural"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/museos.mp4",
+    "image": "assets/museos.webp",
+    "alt": "Fotograma original de Museos y difusión cultural"
   },
   {
     "id": "tarot-2025",
@@ -184,11 +163,8 @@
         "label": "Presentación identificada de Luciano"
       }
     ],
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-tarot-2025.svg",
-    "alt": "Ficha editorial de Tarot: Aravena y Salazar"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/tarot-2025.mp4",
+    "image": "assets/tarot-2025.webp",
+    "alt": "Luciano Salazar identificado por rótulo ante la entrada de un café temático de astrología."
   }
 ]
