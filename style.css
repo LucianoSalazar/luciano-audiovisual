@@ -94,3 +94,5 @@
 @media(prefers-reduced-motion:reduce){.broadcast .media-thumb img,.broadcast .button{transition:none}.broadcast .button:hover{transform:none}}
 
 .broadcast .intro-copy h1 br{display:initial!important}
+
+.broadcast .linkedin-bio{font-size:18px;line-height:1.75;max-width:760px}@media(max-width:600px){.intro-copy{display:contents}.intro-copy>.kicker{order:0;margin-bottom:0}.intro-av .hero-film{order:1;margin-top:28px;margin-bottom:45px}.intro-copy>h1{order:2}.intro-copy>.intro-statement{order:3}.intro-copy>.intro-bio{order:4}.intro-copy>.actions{order:5;margin-top:8px}.intro-copy>.quiet-link{order:6}.broadcast .linkedin-bio{font-size:17px;line-height:1.75}}
