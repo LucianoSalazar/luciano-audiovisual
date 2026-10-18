@@ -96,3 +96,5 @@
 .broadcast .intro-copy h1 br{display:initial!important}
 
 .broadcast .linkedin-bio{font-size:18px;line-height:1.75;max-width:760px}@media(max-width:600px){.intro-copy{display:contents}.intro-copy>.kicker{order:0;margin-bottom:0}.intro-av .hero-film{order:1;margin-top:28px;margin-bottom:45px}.intro-copy>h1{order:2}.intro-copy>.intro-statement{order:3}.intro-copy>.intro-bio{order:4}.intro-copy>.actions{order:5;margin-top:8px}.intro-copy>.quiet-link{order:6}.broadcast .linkedin-bio{font-size:17px;line-height:1.75}}
+
+.intro-av .hero-film>img{height:510px;object-fit:contain;object-position:center;background:#eef2ef}.intro-av .hero-film::before{content:'RETRATO PROFESIONAL / LUCIANO SALAZAR'}.intro-av .hero-film::after{content:'INVESTIGAR / PREGUNTAR / ENCONTRAR HISTORIAS'}@media(max-width:600px){.intro-av .hero-film>img{height:340px;aspect-ratio:auto;object-fit:contain}.intro-av .hero-film{width:calc(100% - 12px);padding:8px 8px 43px}.intro-av .hero-film::before{font-size:8px}.intro-av .hero-film::after{font-size:8px}}
